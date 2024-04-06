@@ -34,6 +34,7 @@
                       <input type="password" class="form-control password" name="password" id="password" placeholder="Password" required>
                   </div>
                   <a href="dashboard.php" class="btn text-white w-100" style="background:#D85C27; display: block; text-decoration: none;">Login</a>
+                  <h1>Click 'Login' to be redirected to the dashboard.</h1>
                 </form>
               </div>
             </div>
